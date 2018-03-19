@@ -1,0 +1,57 @@
+.header {
+	background-color: black;
+	text-align: center;
+	color: #FCDAD5;
+	margin: 5%;
+}
+
+.h2 {
+	text-align: center;
+	color: #000000;
+}
+
+section {
+	padding: 5%;	
+}
+
+.section-pardo {
+	background-color: #800000;
+	text-align: center;
+	color: #FFFFFF;
+	border-style: solid;
+	border-width: 15%;
+	border-color: #000000;
+}
+
+.section-panda {
+	background-color: #C0C0C0;
+	text-align: center;
+	color: #800000;
+	border-style: solid;
+	border-width: 15%;
+	border-color: #000000;
+	
+}
+
+.section-polar {
+	background-color: #FFFFFF;
+	text-align: center;
+	color: #898989;
+	border-style: solid;
+	border-width: 15%;
+	border-color: #000000;
+}
+
+.section-koala {
+	background-color: #000000;
+	text-align: center;
+	color: #E9556A;
+	border-style: solid;
+	border-width: 15%;
+	border-color: #000000;
+}
+
+img {
+	width: 15%;
+	height: 20%;
+}
